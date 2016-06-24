@@ -1,0 +1,1 @@
+Blind modulation detection involves understanding what signals are present with limited to no prior information.  There are many military and civilian applications including identifying enemy signals and discovering potential interferers.
